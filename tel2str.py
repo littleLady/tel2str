@@ -18,8 +18,3 @@ def print_combination(list_int):
 	for el in result:
 		print(''.join(el)),
 
-
-list_int = [1,2,3,4]
-
-print_combination(list_int)
-
